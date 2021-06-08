@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Header](https://github.com/ohletamyleta/ohletamyleta/raw/main/letachrisman.png)
+![Header][header_photo]
+[header_photo]: https://github.com/ohletamyleta/ohletamyleta/leta chrisman.png
 
 <!--
 **ohletamyleta/ohletamyleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
